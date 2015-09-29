@@ -36,6 +36,7 @@
             $("#guide").html(template(data));
 
             document.title = content.meta.title;
+            $("#document-title").html(content.meta.title);
 
             bindTOC();
 

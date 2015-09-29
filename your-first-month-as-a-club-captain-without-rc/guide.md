@@ -147,7 +147,7 @@ We encourage/invite you to use the Mozilla brand provided you [follow the guidel
 
 * **Logo**. While standalone uses of the "Mozilla" and “Mozilla Clubs” wordmarks are limited to what is permitted under the[ Mozilla Trademark Policy](https://www.mozilla.org/en-US/foundation/trademarks/policy/), we welcome you to[ use this template to create a logo](https://sabby.makes.org/thimble/NzYxNzkwOTc2/mozilla-clubs-wordmark) for your club that incorporates these wordmarks.
 
-* Review the [remaining Mozilla Club guidelines](https://docs.google.com/a/mozilla.com/document/d/1uBQRcq_QKjn4EWkcmUd-zCC4Qfr4LMebj1Fg2hB-qoU/edit?usp=sharing) for domain names, websites, references, mission and more. 
+* Review the [remaining Mozilla Club guidelines](http://mozilla.github.io/mozilla-club-guides/branding-guidelines) for domain names, websites, references, mission and more.
 
 ### Find a team
 

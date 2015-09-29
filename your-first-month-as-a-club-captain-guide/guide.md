@@ -147,7 +147,7 @@ Your club is yours to design. Once you have submitted your pledge and agreed to 
 
 The Mozilla brand helps identify your club as part of our global network and mission.
 
-* Follow [the guidelines set forth here](https://docs.google.com/a/mozilla.com/document/d/1uBQRcq_QKjn4EWkcmUd-zCC4Qfr4LMebj1Fg2hB-qoU/edit?usp=sharing) for naming and branding your club including what to name your club, create a domain, develop a logo, determine a mission and much more.
+* Follow [the guidelines set forth here](http://mozilla.github.io/mozilla-club-guides/branding-guidelines) for naming and branding your club including what to name your club, create a domain, develop a logo, determine a mission and much more.
 
 ### Find a team
 

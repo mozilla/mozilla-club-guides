@@ -38,4 +38,4 @@ At the top of the site's main page, it should be stated clearly and explicitly t
 * Use our trademarks and logos on websites or other places containing content associated with hate speech, pornography, gambling, or illegal activities.
 * Use our trademarks and logos to, or in connection with, content that disparages us or sullies our reputation.
 
-
+Mozilla reserves the right to rescind a Club's permission to call itself a Mozilla Club at any time at its discretion.

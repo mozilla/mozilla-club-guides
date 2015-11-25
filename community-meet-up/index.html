@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta charset="utf-8">
+
+    <link href='https://fonts.googleapis.com/css?family=Droid+Sans:400,700|Fira+Sans:400,300,300italic,400italic,500,700|Open+Sans:400,300,300italic,600,700' rel='stylesheet' type='text/css'>
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/foundation/5.5.2/css/normalize.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/foundation/5.5.2/css/foundation.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.4.0/css/font-awesome.css"/>
+    <link rel="stylesheet" href="../stylesheets/override.css"/>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/marked/0.3.2/marked.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/js-yaml/3.3.1/js-yaml.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/handlebars.js/3.0.3/handlebars.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/foundation/5.5.2/js/foundation.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/foundation/5.5.2/js/foundation/foundation.topbar.min.js"></script>
+
+    <title>Loading...</title>
+
+    <!-- Handlebars Templates -->
+
+    <script id="guide-template" type="text/x-handlebars-template">
+        <div class="row">
+            <div class="col-md-12">
+                {{{content}}}
+            </div>
+        </div>
+    </script>
+
+    <script id="old-toc-template" type="text/x-handlebars-template">
+        {{#each this}}
+        {{#matchTag "H1,H2,H3"}}
+        <li><a href="#{{id}}">{{text}}</a></li>
+        {{/matchTag}}
+        {{/each}}
+    </script>
+
+    <script id="toc-template" type="text/x-handlebars-template">
+        <ul>
+        {{#each this}}
+            {{#matchTag "H1,H2,H3"}}
+                {{#ifCond tag '==' "H1"}}
+                    <li class="lvl1"><a href="#{{id}}">{{text}}</a></li>
+                {{/ifCond}}
+                {{#ifCond tag '==' "H2"}}
+                    <li class="lvl2"><a href="#{{id}}">{{text}}</a></li>
+                {{/ifCond}}
+                {{#ifCond tag '==' "H3"}}
+                    <li class="lvl3"><a href="#{{id}}">{{text}}</a></li>
+                {{/ifCond}}
+            {{/matchTag}}
+        {{/each}}
+        </ul>
+    </script>
+
+
+
+
+</head>
+
+<body>
+<div class="sticky">
+    <nav class="top-bar" data-topbar role="navigation" data-options="sticky_on: large">
+        <ul class="title-area">
+            <li class="name">
+                <h1><a href="#" id="document-title">Your First Month as a Club Captain Guide</a></h1>
+            </li>
+            <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
+            <li class="toggle-topbar menu-icon"><a href="#"><span></span></a></li>
+        </ul>
+
+        <section class="top-bar-section">
+            <!-- Right Nav Section -->
+            <ul class="right">
+                <li><a href="#" data-reveal-id="readingOptions"><i class="fa fa-cogs fa-lg"></i></a></li>
+                <li><a href="#" data-reveal-id="tableOfContents"><i class="fa fa-book fa-lg"></i></a></li>
+            </ul>
+
+
+        </section>
+    </nav>
+</div>
+
+<!-- Reading options -->
+<div id="readingOptions" class="reveal-modal" data-reveal aria-labelledby="modalTitle" aria-hidden="true" role="dialog">
+    <h2 id="modalTitle">Reading Options</h2>
+    <form>
+        <div class="row">
+            <div class="medium-6 columns">
+                <h3>Font family</h3>
+                <input type="radio" name="fontFamilySelector" value="text-opensans" checked>Open Sans</input><br>
+                <input type="radio" name="fontFamilySelector"  value="text-droidsans">Droid Sans</input><br>
+                <input type="radio" name="fontFamilySelector"  value="text-firasans">Fira Sans</input><br>
+                <input type="radio" name="fontFamilySelector"  value="text-times">Times New Roman</input><br>
+            </div>
+            <div class="medium-6 columns">
+                <h3>Font size</h3>
+                <input type="radio" name="fontSizeSelector" value="text-small">Small</input><br>
+                <input type="radio" name="fontSizeSelector"  value="text-normal" checked>Normal</input><br>
+                <input type="radio" name="fontSizeSelector"  value="text-large">Large</input><br>
+            </div>
+        </div>
+    </form>
+    <a class="close-reveal-modal" aria-label="Close">&#215;</a>
+</div>
+
+<!-- End of Reading Options -->
+
+<!-- Table of Contents dialog -->
+<div id="tableOfContents" class="reveal-modal" data-reveal aria-labelledby="tocTitle" aria-hidden="true" role="dialog">
+    <h2 id="tocTitle">Table of Contents</h2>
+    <div id="toc"></div>
+    <a class="close-reveal-modal" aria-label="Close">&#215;</a>
+</div>
+<!-- End of Table of Contents dialog -->
+
+<div class="row">
+    <div class="small-12 columns">
+        <div id="guide" class="text-opensans"></div>
+    </div>
+</div>
+
+
+<!-- scripts -->
+
+<script src="../js/meta-marked.js"></script>
+<script src="../js/markdown-toc.js"></script>
+<script src="../js/guide.js"></script>
+</body>
+</html>

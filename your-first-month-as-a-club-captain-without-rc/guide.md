@@ -29,7 +29,7 @@ We can’t wait to #teachtheweb with you!
 
 2. **Prepare your team, your learners and your space [Week 2 - 3]**
 
-    4. [Name your club](https://sabby.makes.org/thimble/NzYxNzkwOTc2/mozilla-clubs-wordmark) and find a team.
+    4. [Name your club](https://d157rqmxrxj6ey.cloudfront.net/mozillalearning/17695/) and find a team.
 
     5. Schedule your first three sessions and invite your learners.
 

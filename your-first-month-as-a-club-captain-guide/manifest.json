@@ -1,0 +1,7 @@
+{
+  "locales": [ "en", "pt"],
+  "default_locale": "en",
+  "resources": [
+    "guide.{{locale}}.l20n"
+  ]
+}

@@ -5,16 +5,18 @@ Mozilla Clubs offer an opportunity to regularly bring digital literacy skills in
 Mozilla Club curriculum can be incorporated into existing programming over a month, a 6-8 week period or a weeklong  summer camp module, or during professional development days.
 
 There are many benefits of mixing your afterschool program with Mozilla Club:
+
 * Connect with hands-on learning activities where afterschool educators and participants learn how to read, write, and participate on the Web, teach others, and learn together.  
 * Empower afterschool educators with professional development opportunities that will continually bring them up to speed on the latest web literacy skills.
 * Combine these Web Literacy skills with current and new projects that are on and off-line.
 * Strengthen your afterschool program by teaching core web literacy skills to students that will enhance in-school learning and STEM skillset.
 * Participate in global campaigns such as Data Privacy Day, International Women’s Day, Maker Party etc.
 
-# Activity Ideas
+## Activity Ideas
 At your next staff meeting, share the [Mozilla Clubs activities](https://teach.mozilla.org/activities/) and determine how to adapt the activities to your afterschool program.  The [Web Literacy Basics module](https://teach.mozilla.org/activities/web-lit-basics/), which is comprised of six activities, each approximately 45 minutes in length are a great way to start and is easily adaptable for many age groups. Participants can try these activities together, and a takeaway assignment could be to teach to their parents or other adults in their lives as part of a project.
 
 There are lots of activities, both online and offline at [teach.mozilla.org/activities](http://teach.mozilla.org/activities). Here are a few suggestions to make the most of your afterschool program/Mozilla Club mix:
+
 * Personal Presentation Icebreakers: Sit in a circle and...
   * When was the first time you remember using the web?
   * What is one thing you would love to learn about the web?
@@ -30,13 +32,15 @@ There are lots of activities, both online and offline at [teach.mozilla.org/acti
   * [Thimble](https://thimble.mozilla.org/) - [Interactive Postcard Remix](https://thimble.mozilla.org/anonymous/168ddc95-94a9-4680-b5cc-0727f62e1e84/75)
   * [Create a WebMaker Project](http://mozilla.github.io/webmaker-curriculum/MobileWeb/create-webmaker-project.html)
   * [X-Ray Goggles](https://webmaker.org/en-US/goggles) - [Hack the News activity](http://mozilla.github.io/webmaker-curriculum/WebLiteracyBasics-I/session02-hackthenews.html)
-# Resources
+ 
+## Resources
 Want even more ideas and tools for mixing your Mozilla Club and afterschool program? Here are a few resources to help you dig further.
+
 * [Teach Like Mozilla - Our Values](https://teach.mozilla.org/teach-like-mozilla/)
 * [Discourse Community Forum](https://discourse.webmaker.org)
 * [Hive NYC training program for educators](http://hivenyc.org/2015/02/18/ippd-training-doe-educators/) and educator ideas for running activities in the school in [this outcomes blogpost](http://hivenyc.org/2015/04/07/outcomes-of-a-connected-learning-and-web-literacy-training-for-nyc-doe-educators/)
 
-# Contact
+## Contact
 * Email Mozilla’s Club expert Amira Dhalla (amira@mozillafoundation.org) with any questions about Mozilla Clubs
 * Tweet us anytime [@MozTeach](https://twitter.com/mozteach) or using [#teachtheweb or #MozillaClubs](https://twitter.com/search?src=typd&q=%23teachtheweb)
 * Is your Mozilla Club doing an awesome job of retaining and growing the community? [Share your story with us!](https://docs.google.com/a/mozillafoundation.org/forms/d/1bOXV1OiF2EKS5KprlnzfFpwaoVNwxLAwN_UEq6hGKqU/viewform)

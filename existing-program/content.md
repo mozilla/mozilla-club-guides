@@ -1,6 +1,3 @@
----
-title: A Mozilla Club In Your Established Program
----
 ![Imgur](http://i.imgur.com/LWGqCAS.png?1)
 
 

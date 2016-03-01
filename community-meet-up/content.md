@@ -1,6 +1,3 @@
----
-title: A Mozilla Club At Your Community Meet-Up
----
 ![Imgur](http://i.imgur.com/LWGqCAS.png?1)
 
 # A Mozilla Club At Your Community Meet-Up
@@ -36,11 +33,8 @@ The activities make great ice breakers, with the added benefit of learning new s
 Try a “Read, Write, Participate” theme for your meet-up for one month (or for a season) and facilitate one activity at each meet-up during that timeframe.
 Encourage participants to try the activities together and then to teach them to others before your next meet-up.
 
-<div class="text-center">
 **You can do it!** <br>
-![Facilitator](img/clubs.png)<br>
-</div>
-
+![Facilitator](img/clubs.png)
 
 
 We’re here to help you through the process of embedding a Mozilla Club into your community meet-ups. 

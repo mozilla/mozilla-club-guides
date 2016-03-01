@@ -1,6 +1,3 @@
----
-title: Branding Guidelines
----
 ![Imgur](http://i.imgur.com/LWGqCAS.png?1)
 
 # Branding Guidelines

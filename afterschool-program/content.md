@@ -1,6 +1,3 @@
----
-title: A Mozilla Club In Afterschool Program
----
 ![Imgur](http://i.imgur.com/LWGqCAS.png?1)
 
 # A Mozilla Club In Your Afterschool Program

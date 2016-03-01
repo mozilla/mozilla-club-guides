@@ -1,6 +1,3 @@
----
-title: Your First Month as a Club Captain (without an RC)
----
 # Welcome Club Captain!
 
 Thanks for your interest in being a Mozilla Club Captain and hosting a Mozilla Club for your local community. 
@@ -43,11 +40,11 @@ We can’t wait to #teachtheweb with you!
 
     9. After each session, [share your experience](http://discourse.webmaker.org/category/clubs) with fellow Club Captains in our discussion forum.
 
-1. Pledge to Host Your Mozilla Club [Week 1]
+1. **Pledge to Host Your Mozilla Club [Week 1]**
 
 ### I.A. Review the Mozilla Club Fact Sheet. 
 
-** Mozilla Club meets regularly in-person to learn how to read, write and participate with the web in an inclusive and engaging way.**
+**Mozilla Club meets regularly in-person to learn how to read, write and participate with the web in an inclusive and engaging way.**
 
 * *Why run a Mozilla Club:*
 
@@ -67,7 +64,7 @@ We can’t wait to #teachtheweb with you!
 
     * Have at least two members.
 
-** As a Club Captain**, you will serve your Club Members in cultivating their web literacy and leadership skills by ensuring the ongoing, participatory learning of your club. 
+**As a Club Captain**, you will serve your Club Members in cultivating their web literacy and leadership skills by ensuring the ongoing, participatory learning of your club. 
 
 * *A Mozilla Club Captain pledges to:*
 
@@ -85,19 +82,19 @@ We can’t wait to #teachtheweb with you!
 
     * Report-back on events on community channels and on potential calls
 
-## Read more:
+#### Read more:
 
 * [Mozilla Club fact sheet](http://mozilla.github.io/learning-networks/clubs/) 
 
 * [Community tips and recommendations on a Club Captain’s first month](http://discourse.webmaker.org/t/first-30-days-as-a-club-captain-guide/1538/3)
 
-I.B. Complete your pledge. 
+### I.B. Complete your pledge. 
 
-## Interview process
+#### Interview process
 
 After you apply to be Club Captain, you will be asked a few questions about the work you are currently going. The goal of the questions is to learn more about your interests and how the Mozilla Club program can support you in realizing those goals. It’s also a chance to raise questions and get answers. 
 
-## Completing your pledge
+#### Completing your pledge
 
 If the program is a good fit for your interests and local community, we will invite you to review and sign the Club Captain pledge at the end of this document. 
 
@@ -135,9 +132,9 @@ Throughout your engagement with Mozilla Clubs, here’s how you can connect with
 ## II. Prepare Your Team, Your Learners and Your Space 
 [Week 2 - 3]
 
-II.A. Name your club and find a team. 
+### II.A. Name your club and find a team. 
 
-### Name your club
+#### Name your club
 
 Your club is yours to design. Once you have submitted your pledge and agreed to follow the guidelines outlined in part I of this document, it’s time to give your club a brand.
 
@@ -149,7 +146,7 @@ We encourage/invite you to use the Mozilla brand provided you [follow the guidel
 
 * Review the [remaining Mozilla Club guidelines](http://mozilla.github.io/mozilla-club-guides/branding-guidelines) for domain names, websites, references, mission and more.
 
-### Find a team
+#### Find a team
 
 Running a club with other volunteers can be more fun and sustainable. We suggest having at least one fellow co-organizer. Consider peers, colleagues, family and others to get involved. 
 
@@ -167,7 +164,7 @@ Need help finding mentors? Try one of these tips:
 
 * **Online.** Put a call out for mentors on your website, local forums and social media. You never know where the message will land. 
 
-II.B. Schedule your first three sessions and invite your learners. 
+### II.B. Schedule your first three sessions and invite your learners. 
 
 What’s a club with no learners? Now that you have a stellar team ready to teach, start recruiting individuals to attend your club. 
 
@@ -181,7 +178,7 @@ What’s a club with no learners? Now that you have a stellar team ready to teac
 
 * **Blog.** Share your experience running a club on your blog, or even write a guest post on other relevant blogs. If you’re looking for somewhere to start, join the community [on Discourse](http://discourse.webmaker.org/category/clubs) where you can publish posts and connect to educators around the world. 
 
-II.C. Ensure a safe, welcoming environment. 
+### II.C. Ensure a safe, welcoming environment. 
 
 A club should be a place that learners feel welcomed and inspired. Creating a safe environment is an important aspect of running and maintaining a Mozilla Club. Though expectations can vary from country to country there are measures you can take to help ensure safety at your events such as a safe recruitment of volunteers, creating a code of safety for volunteers, identifying outlets for safe and/or anonymous feedback, and many others. 
 
@@ -194,9 +191,9 @@ A club should be a place that learners feel welcomed and inspired. Creating a sa
 * * *
 
 
-**III. Host Your First Sessions [Week 4]**
+## III. Host Your First Sessions [Week 4]**
 
-III.A. Select your favorite teaching activities from Mozilla’s collection.  
+### III.A. Select your favorite teaching activities from Mozilla’s collection.  
 
 **Review Mozilla’s teaching activities **
 
@@ -220,11 +217,11 @@ Here are some ways we recommend adapting our teaching activities to fit your nee
 
 * Be flexible. Use your best judgment when following the activities; your unique situation will likely require you to adapt a little. For example, if learners are asked to complete four tasks but are running out of time, adjust the expectations so they only have to finish two tasks. Find moments throughout the event for the team to evaluate how they might adjust activities to better suit the learners and increase the activities’ success. 
 
-III.B. Practice teaching the activities with your team, and then teach it to your learners. 
+### III.B. Practice teaching the activities with your team, and then teach it to your learners. 
 
-### Practice with your team
+#### Practice with your team
 
-** Gather your team and give yourselves the tools you need to be successful.**
+**Gather your team and give yourselves the tools you need to be successful.**
 
 * Meet in-person. Discuss the selected teaching activities. Give an overview of the schedule. Identify what parts of the learning will need the most support. Each team member should know what is expected of them so they are poised to give their best effort. 
 
@@ -236,13 +233,13 @@ III.B. Practice teaching the activities with your team, and then teach it to you
 
 * Learners mentor each other. Successful clubs often invite learners to be peer mentors and teachers. Identify when and how you can include this practice in your upcoming session. 
 
-### Teach your learners
+#### Teach your learners
 
 This is the fun part! Use all your preparation to have a beautiful, successful Mozilla Club session. 
 
-## III.C. Share your teaching experience with the Mozilla Club community 
+### III.C. Share your teaching experience with the Mozilla Club community 
 
-### Sharing your experience
+#### Sharing your experience
 
 Reflection is an important part of learning and connecting. You want to improve as a Club Captain, as well as help your learners have a better experience. 
 
@@ -302,7 +299,7 @@ As a Mozilla Club Captain, I pledge to:
 
 * Honor [Mozilla’s community participation guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/)[, ](https://www.mozilla.org/en-US/about/governance/policies/participation/)[style guidelines,](https://www.mozilla.org/en-US/styleguide/)[ and ](https://www.mozilla.org/en-US/styleguide/)[privacy policy](https://www.mozilla.org/en-US/privacy/websites/). 
 
-<pre>
+<pre style="background-color: white">
 Signed:						       Club Name:
 
 ________________________                        ________________________

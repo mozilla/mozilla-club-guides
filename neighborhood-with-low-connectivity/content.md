@@ -1,6 +1,3 @@
----
-title: A Mozilla Club At Low-Connectivity Neighborhoods
----
 ![Imgur](http://i.imgur.com/LWGqCAS.png?1)
 
 # A Mozilla Club At Low-Connectivity Neighborhoods
@@ -28,11 +25,7 @@ You decided to help your community learn new digital skills but you’re in a pl
 * Help spread knowledge about how to build the web we want.
 * Empower people to put their voice on the web
 
-<div class="text-center">
 ![Group photo](img/group.png)
-</div>
-
-
 
 ###How and why you should start a Mozilla Clubs in your neighborhood
 
@@ -47,12 +40,9 @@ As a Mozilla Club Captain in this context, you can:
 * Help open the door to new life opportunities for you and your attendees with activities focused on professional skills and networking.
 * Encourage participants to try the activities together and then to teach them others.
 
-<div class="text-center">
     
 **You can do it!**<br>
-![Facilitator](img/facilitator.png)<br>
-
-</div>
+![Facilitator](img/facilitator.png)
 
 
 We’re here to help you through the process of starting a Mozilla Club in your community. 

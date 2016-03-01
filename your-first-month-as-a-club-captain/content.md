@@ -1,6 +1,3 @@
----
-title: Your First Month as a Club Captain
----
 ![Imgur](http://i.imgur.com/LWGqCAS.png?1)
 
 # Welcome Club Captain!
@@ -49,7 +46,7 @@ We can’t wait to #teachtheweb with you!
 
 ### I.A. Review the Mozilla Club Fact Sheet.
 
-** Mozilla Club meets regularly in-person to learn how to read, write and participate with the web in an inclusive and engaging way.**
+**Mozilla Club meets regularly in-person to learn how to read, write and participate with the web in an inclusive and engaging way.**
 
 * *Why run a Mozilla Club:*
 
@@ -87,7 +84,7 @@ We can’t wait to #teachtheweb with you!
 
     * Report-back on events and attend regular meetings with Regional Coordinator
 
-** Read more:**
+**Read more:**
 
 * [Mozilla Club fact sheet](http://mozilla.github.io/learning-networks/clubs/)
 
@@ -197,7 +194,7 @@ A club should be a place that learners feel welcomed and inspired. Creating a sa
 
 ### III.A. Select your favorite teaching activities from Mozilla’s collection.  
 
-**Review Mozilla’s teaching activities **
+**Review Mozilla’s teaching activities**
 
 Within our [club curriculum](https://teach.mozilla.org/activities/) you will find activities developed by Mozilla and our communities to help guide you through your regular meetups.
 
@@ -301,7 +298,7 @@ As a Mozilla Club Captain, I pledge to:
 
 * Honor [Mozilla’s community participation guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/)[, ](https://www.mozilla.org/en-US/about/governance/policies/participation/)[style guidelines,](https://www.mozilla.org/en-US/styleguide/)[ and ](https://www.mozilla.org/en-US/styleguide/)[privacy policy](https://www.mozilla.org/en-US/privacy/websites/).
 
-<pre>
+<pre style="background-color: white">
 Signed:						       Club Name:
 
 ________________________                        ________________________

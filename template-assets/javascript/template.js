@@ -19,8 +19,8 @@ var lastScroll = 0;
 $(document).ready(function(){
   windowHeight = $(window).height();
 
-  //converter = new Markdown.Converter();
-  //Markdown.Extra.init(converter);
+  converter = new Markdown.Converter();
+  Markdown.Extra.init(converter);
 
   getContent();
 
@@ -177,8 +177,7 @@ function getContent(){
   $.ajax({
     url: "content.md",
     success: function (resp) {
-      //buildContent(converter.makeHtml(resp));
-      buildContent(marked(resp));
+      buildContent(converter.makeHtml(resp));
     },
     error: function(e) {
       console.log(e);

@@ -139,7 +139,6 @@ article {
   margin-right: 55px;
   z-index: 1;
 
-
   img {
     max-width: 100%;
   }
@@ -151,7 +150,7 @@ article {
   }
 
   > ul, ol {
-    padding-left: 32px;
+    padding-left: 22px;
     margin-bottom: 40px;
 
     li {
@@ -159,20 +158,10 @@ article {
     }
   }
 
-  ul {
-    li {
-      list-style-type: none;
-      position: relative;
-
-      &:before {
-        content: ".";
-        position: absolute;
-        left: -15px;
-        font-weight: 700;
-        color: inherit;
-        font-size: 25px;
-        top: -6px;
-      }
+  li {
+    ul, ol {
+      padding-left: 20px;
+      margin: 12px 0;
     }
   }
 }
@@ -254,7 +243,7 @@ aside {
     height: 190px;
     width: 170px;
     margin: 22px 0 30px 27px;
-    background-image: ~"url(../images/mozilla-clubs-illustration.svg)";
+    background-image: ~"url(../template-assets/images/mozilla-clubs-illustration.svg)";
     background-position: center;
     background-repeat: no-repeat;
     background-size: contain;
@@ -298,7 +287,7 @@ nav {
     &:after {
       content: "";
       background-color: @primary-darkest;
-      background-image: ~"url(../images/nav-selected-indicator-mask.svg)";
+      background-image: ~"url(../template-assets/images/nav-selected-indicator-mask.svg)";
       background-position: right;
       background-repeat: no-repeat;
 

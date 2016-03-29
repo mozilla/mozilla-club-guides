@@ -46,3 +46,4 @@ Want even more ideas and tools for mixing your Mozilla Club and afterschool prog
 * Is your Mozilla Club doing an awesome job of retaining and growing the community? [Share your story with us!](https://docs.google.com/a/mozillafoundation.org/forms/d/1bOXV1OiF2EKS5KprlnzfFpwaoVNwxLAwN_UEq6hGKqU/viewform)
 
 
+[Click here to help translate this guide in your language](/l10n-editor/#afterschool-program)

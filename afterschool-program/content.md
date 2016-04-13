@@ -1,11 +1,19 @@
 # Mixing Your Afterschool Program & Your Mozilla Club
 
 Mozilla Clubs offer an opportunity to regularly bring digital literacy skills into an afterschool environment and participate in a global community of teachers and learners.  Afterschool programs are the ideal setting for educators and participants to teach and learn digital literacy skills by adapting Mozilla Club curriculum. Any afterschool provider interested in learning web literacy skills to help facilitate positive experiences in their programs, and create new and innovative hands-on activities can lead the effort.
+<<<<<<< HEAD
 
 Mozilla Club curriculum can be incorporated into existing programming over a month, a 6-8 week period or a weeklong  summer camp module, or during professional development days.
 
 There are many benefits of mixing your afterschool program with Mozilla Club:
 
+=======
+
+Mozilla Club curriculum can be incorporated into existing programming over a month, a 6-8 week period or a weeklong  summer camp module, or during professional development days.
+
+There are many benefits of mixing your afterschool program with Mozilla Club:
+
+>>>>>>> enhancement-l10n-support
 * Connect with hands-on learning activities where afterschool educators and participants learn how to read, write, and participate on the Web, teach others, and learn together.  
 * Empower afterschool educators with professional development opportunities that will continually bring them up to speed on the latest web literacy skills.
 * Combine these Web Literacy skills with current and new projects that are on and off-line.
@@ -46,3 +54,7 @@ Want even more ideas and tools for mixing your Mozilla Club and afterschool prog
 * Is your Mozilla Club doing an awesome job of retaining and growing the community? [Share your story with us!](https://docs.google.com/a/mozillafoundation.org/forms/d/1bOXV1OiF2EKS5KprlnzfFpwaoVNwxLAwN_UEq6hGKqU/viewform)
 
 
+<<<<<<< HEAD
+=======
+[Click here to help translate this guide in your language](/l10n-editor/#afterschool-program)
+>>>>>>> enhancement-l10n-support

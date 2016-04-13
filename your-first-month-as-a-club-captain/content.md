@@ -297,13 +297,3 @@ As a Mozilla Club Captain, I pledge to:
 * Share my club’s experience with Mozilla Learning Networks through participation in regular calls and discussion forums.
 
 * Honor [Mozilla’s community participation guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/)[, ](https://www.mozilla.org/en-US/about/governance/policies/participation/)[style guidelines,](https://www.mozilla.org/en-US/styleguide/)[ and ](https://www.mozilla.org/en-US/styleguide/)[privacy policy](https://www.mozilla.org/en-US/privacy/websites/).
-
-<pre style="background-color: white">
-Signed:						       Club Name:
-
-________________________                        ________________________
-
-Printed Name:					       Date:
-
-________________________                        ________________________
-</pre>
